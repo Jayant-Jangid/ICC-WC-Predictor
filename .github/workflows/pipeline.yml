@@ -1,0 +1,47 @@
+name: Scheduled Tournament Model Update
+
+on:
+  schedule:
+    # Run every Sunday at 00:00 UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allow manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-model:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js v24
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Install Pipeline Dependencies
+        run: |
+          npm install --prefix pipeline
+
+      - name: Run Prediction & Simulation Pipeline
+        run: |
+          node pipeline/1-download.js
+          node pipeline/2-parse.js
+          node pipeline/3-scrape-rankings.js
+          node pipeline/4-elo.js
+          node pipeline/5-simulate.js
+          node pipeline/6-export.js
+
+      - name: Commit and Push Updated Predictions
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add client/public/data/
+          if git diff --staged --quiet; then
+            echo "No prediction changes detected."
+          else
+            git commit -m "chore(model): auto-update tournament predictions and Elo data [skip ci]"
+            git push
+          fi

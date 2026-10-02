@@ -1,0 +1,120 @@
+{
+  "id": 6,
+  "name": "Sri Lanka",
+  "shortName": "SL",
+  "slug": "sri-lanka",
+  "group": null,
+  "iccRanking": 7,
+  "eloRating": 1580,
+  "formScore": 0.5,
+  "championshipPct": 2.8,
+  "semifinalPct": 8.3,
+  "recentForm": [
+    {
+      "date": "2026-10-22",
+      "opponent": "England",
+      "opponentShort": "ENG",
+      "result": "W",
+      "margin": "2 wkts"
+    },
+    {
+      "date": "2026-10-18",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "L",
+      "margin": "37 runs"
+    },
+    {
+      "date": "2026-09-27",
+      "opponent": "England",
+      "opponentShort": "ENG",
+      "result": "L",
+      "margin": "223 runs"
+    },
+    {
+      "date": "2026-09-24",
+      "opponent": "England",
+      "opponentShort": "ENG",
+      "result": "W",
+      "margin": "16 runs"
+    },
+    {
+      "date": "2026-09-22",
+      "opponent": "England",
+      "opponentShort": "ENG",
+      "result": "L",
+      "margin": "89 runs"
+    },
+    {
+      "date": "2026-07-28",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "W",
+      "margin": "8 wkts"
+    },
+    {
+      "date": "2026-07-25",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "W",
+      "margin": "8 wkts"
+    },
+    {
+      "date": "2026-07-23",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "L",
+      "margin": "5 wkts"
+    },
+    {
+      "date": "2026-04-25",
+      "opponent": "Bangladesh",
+      "opponentShort": "BAN",
+      "result": "W",
+      "margin": "7 wkts"
+    },
+    {
+      "date": "2026-04-22",
+      "opponent": "Bangladesh",
+      "opponentShort": "BAN",
+      "result": "W",
+      "margin": "4 wkts"
+    },
+    {
+      "date": "2026-04-20",
+      "opponent": "Bangladesh",
+      "opponentShort": "BAN",
+      "result": "L",
+      "margin": "3 wkts"
+    },
+    {
+      "date": "2026-01-27",
+      "opponent": "England",
+      "opponentShort": "ENG",
+      "result": "L",
+      "margin": "53 runs"
+    },
+    {
+      "date": "2026-01-24",
+      "opponent": "England",
+      "opponentShort": "ENG",
+      "result": "L",
+      "margin": "5 wkts"
+    },
+    {
+      "date": "2026-01-22",
+      "opponent": "England",
+      "opponentShort": "ENG",
+      "result": "W",
+      "margin": "19 runs"
+    },
+    {
+      "date": "2025-11-16",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "L",
+      "margin": "6 wkts"
+    }
+  ],
+  "players": []
+}

@@ -1,0 +1,220 @@
+@import "tailwindcss";
+@import '@fontsource-variable/dm-sans';
+@import '@fontsource/dm-mono/400.css';
+@import '@fontsource/dm-mono/500.css';
+
+:root {
+  color-scheme: dark;
+  --bg-base: #070a12;
+  --bg-surface: #0e1424;
+  --bg-raised: #151d33;
+  --bg-card: rgba(16, 23, 41, 0.75);
+  --border: rgba(255, 255, 255, 0.08);
+  --border-strong: rgba(255, 255, 255, 0.16);
+  --border-glow: rgba(212, 168, 67, 0.25);
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --text-muted: #64748b;
+  --accent: #f59e0b;
+  --accent-gold: #d4a843;
+  --accent-emerald: #10b981;
+  --accent-cyan: #06b6d4;
+  --accent-dim: rgba(245, 158, 11, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'DM Sans Variable', 'DM Sans', system-ui, -apple-system, sans-serif;
+  background-color: var(--bg-base);
+  background-image: 
+    radial-gradient(circle at 50% 0%, rgba(245, 158, 11, 0.07) 0%, transparent 50%),
+    radial-gradient(circle at 85% 30%, rgba(59, 130, 246, 0.05) 0%, transparent 40%),
+    radial-gradient(circle at 15% 70%, rgba(16, 185, 129, 0.04) 0%, transparent 45%);
+  background-attachment: fixed;
+  color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Stat numbers always monospace */
+.mono {
+  font-family: 'DM Mono', 'Fira Code', Consolas, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Table base */
+table { border-collapse: collapse; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--border-strong); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--text-muted); }
+
+/* Selection */
+::selection { background: rgba(245, 158, 11, 0.35); color: #fff; }
+
+/* Custom slider input */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 6px;
+  background: var(--bg-raised);
+  border-radius: 999px;
+  outline: none;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--accent);
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(245, 158, 11, 0.6);
+  border: 2px solid #ffffff;
+  transition: transform 0.15s ease;
+}
+input[type="range"]::-webkit-slider-thumb:hover {
+  transform: scale(1.2);
+}
+
+/* Glass panel */
+.glass-panel {
+  background: var(--bg-card);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border);
+}
+
+.glass-panel-interactive {
+  background: var(--bg-card);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border);
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.glass-panel-interactive:hover {
+  border-color: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+  box-shadow: 0 12px 30px -10px rgba(0, 0, 0, 0.5);
+}
+
+/* Win probability track */
+.prob-track {
+  height: 8px;
+  background: var(--bg-raised);
+  border-radius: 4px;
+  overflow: hidden;
+  position: relative;
+}
+.prob-fill-a {
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  background: linear-gradient(90deg, #2563eb, #3b82f6);
+  transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.prob-fill-b {
+  position: absolute;
+  right: 0; top: 0; bottom: 0;
+  background: linear-gradient(90deg, #f59e0b, #d97706);
+  transition: width 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Cricket Seam Stitch pattern separator */
+.cricket-seam {
+  background-image: repeating-linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.12),
+    rgba(255, 255, 255, 0.12) 3px,
+    transparent 3px,
+    transparent 7px
+  );
+  height: 2px;
+  width: 100%;
+}
+
+/* Broadcast section header */
+.broadcast-header {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+}
+.broadcast-header::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, var(--border-strong) 0%, transparent 100%);
+}
+
+/* Pulsing radar dot */
+@keyframes radarPulse {
+  0% { transform: scale(0.95); opacity: 0.9; }
+  50% { transform: scale(1.6); opacity: 0; }
+  100% { transform: scale(0.95); opacity: 0.9; }
+}
+.radar-pulse {
+  animation: radarPulse 2s infinite ease-in-out;
+}
+
+/* Stage pill */
+.stage-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+/* Tier badge */
+.tier-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  border: 1px solid;
+  line-height: 1.5;
+}
+
+/* Country flag helper using flagcdn */
+.flag {
+  display: inline-block;
+  width: 20px;
+  height: 14px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 2px;
+  flex-shrink: 0;
+  vertical-align: middle;
+}
+.flag-IND { background-image: url('https://flagcdn.com/w40/in.webp'); }
+.flag-AUS { background-image: url('https://flagcdn.com/w40/au.webp'); }
+.flag-ENG { background-image: url('https://flagcdn.com/w40/gb-eng.webp'); }
+.flag-PAK { background-image: url('https://flagcdn.com/w40/pk.webp'); }
+.flag-SA  { background-image: url('https://flagcdn.com/w40/za.webp'); }
+.flag-NZ  { background-image: url('https://flagcdn.com/w40/nz.webp'); }
+.flag-SL  { background-image: url('https://flagcdn.com/w40/lk.webp'); }
+.flag-BAN { background-image: url('https://flagcdn.com/w40/bd.webp'); }
+.flag-AFG { background-image: url('https://flagcdn.com/w40/af.webp'); }
+.flag-ZIM { background-image: url('https://flagcdn.com/w40/zw.webp'); }
+.flag-NAM { background-image: url('https://flagcdn.com/w40/na.webp'); }
+.flag-WI  { background-image: url('https://flagcdn.com/w40/bb.webp'); }
+.flag-IRE { background-image: url('https://flagcdn.com/w40/ie.webp'); }
+.flag-SCO { background-image: url('https://flagcdn.com/w40/gb-sct.webp'); }

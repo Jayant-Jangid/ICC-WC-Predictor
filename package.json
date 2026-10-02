@@ -1,0 +1,13 @@
+{
+  "name": "icc-wc-predictor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pipeline": "node pipeline/1-download.js && node pipeline/2-parse.js && node pipeline/3-scrape-rankings.js && node pipeline/4-elo.js && node pipeline/5-simulate.js && node pipeline/6-export.js",
+    "dev": "npm run dev --prefix client",
+    "build": "npm run build --prefix client",
+    "preview": "npm run preview --prefix client",
+    "setup": "npm run pipeline && npm run build"
+  }
+}

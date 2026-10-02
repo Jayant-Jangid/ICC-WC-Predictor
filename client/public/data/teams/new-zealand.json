@@ -1,0 +1,207 @@
+{
+  "id": 3,
+  "name": "New Zealand",
+  "shortName": "NZ",
+  "slug": "new-zealand",
+  "group": "B",
+  "iccRanking": 3,
+  "eloRating": 1715,
+  "formScore": 0.645,
+  "championshipPct": 21.8,
+  "semifinalPct": 44.5,
+  "recentForm": [
+    {
+      "date": "2026-11-13",
+      "opponent": "India",
+      "opponentShort": "IND",
+      "result": "W",
+      "margin": "244 runs (Bay Oval, Mount Maunganui - 4th ODI)"
+    },
+    {
+      "date": "2026-11-10",
+      "opponent": "India",
+      "opponentShort": "IND",
+      "result": "L",
+      "margin": "6 wkts (2nd ODI)"
+    },
+    {
+      "date": "2026-11-07",
+      "opponent": "India",
+      "opponentShort": "IND",
+      "result": "L",
+      "margin": "5 wkts - DLS (1st ODI)"
+    },
+    {
+      "date": "2026-05-16",
+      "opponent": "England",
+      "opponentShort": "ENG",
+      "result": "W",
+      "margin": "17 runs"
+    },
+    {
+      "date": "2026-05-10",
+      "opponent": "England",
+      "opponentShort": "ENG",
+      "result": "L",
+      "margin": "1 wkts"
+    },
+    {
+      "date": "2026-04-23",
+      "opponent": "Bangladesh",
+      "opponentShort": "BAN",
+      "result": "L",
+      "margin": "55 runs"
+    },
+    {
+      "date": "2026-04-20",
+      "opponent": "Bangladesh",
+      "opponentShort": "BAN",
+      "result": "L",
+      "margin": "6 wkts"
+    },
+    {
+      "date": "2026-04-17",
+      "opponent": "Bangladesh",
+      "opponentShort": "BAN",
+      "result": "W",
+      "margin": "26 runs"
+    },
+    {
+      "date": "2026-04-04",
+      "opponent": "South Africa",
+      "opponentShort": "SA",
+      "result": "W",
+      "margin": "66 runs"
+    },
+    {
+      "date": "2026-04-01",
+      "opponent": "South Africa",
+      "opponentShort": "SA",
+      "result": "W",
+      "margin": "2 wkts"
+    }
+  ],
+  "players": [
+    {
+      "name": "Will Young",
+      "role": "Opening Batter",
+      "batting_avg": 44.20,
+      "strike_rate": 87.10,
+      "bowling_avg": null,
+      "matches": 42,
+      "runs": 1540,
+      "wickets": 0,
+      "status": "Hero of 4th ODI (Scored 125 off 108 vs IND)"
+    },
+    {
+      "name": "Matt Henry",
+      "role": "Premier Fast Bowler",
+      "batting_avg": 16.50,
+      "strike_rate": 98.00,
+      "bowling_avg": 24.80,
+      "matches": 85,
+      "runs": 480,
+      "wickets": 158,
+      "status": "Player of the Match (Historic 6/27 vs IND)"
+    },
+    {
+      "name": "Kane Williamson",
+      "role": "Top-Order Anchor",
+      "batting_avg": 48.60,
+      "strike_rate": 81.30,
+      "bowling_avg": 35.40,
+      "matches": 165,
+      "runs": 6810,
+      "wickets": 37,
+      "status": "Senior Leader"
+    },
+    {
+      "name": "Daryl Mitchell",
+      "role": "Middle-Order Power Batter",
+      "batting_avg": 52.60,
+      "strike_rate": 97.40,
+      "bowling_avg": 34.10,
+      "matches": 45,
+      "runs": 1680,
+      "wickets": 15,
+      "status": "Active Core"
+    },
+    {
+      "name": "Tim Seifert",
+      "role": "Wicketkeeper / Aggressive Opener",
+      "batting_avg": 36.20,
+      "strike_rate": 105.80,
+      "bowling_avg": null,
+      "matches": 28,
+      "runs": 780,
+      "wickets": 0,
+      "status": "Scored 58 off 48 vs IND in 4th ODI"
+    },
+    {
+      "name": "Finn Allen",
+      "role": "Explosive Opener",
+      "batting_avg": 32.10,
+      "strike_rate": 112.50,
+      "bowling_avg": null,
+      "matches": 26,
+      "runs": 750,
+      "wickets": 0,
+      "status": "Scored 41 off 30 vs IND in 4th ODI"
+    },
+    {
+      "name": "Glenn Phillips",
+      "role": "Middle-Order Batter / Off-Spin",
+      "batting_avg": 36.40,
+      "strike_rate": 98.70,
+      "bowling_avg": 29.50,
+      "matches": 38,
+      "runs": 920,
+      "wickets": 24,
+      "status": "Active Core"
+    },
+    {
+      "name": "Mitchell Santner",
+      "role": "Left-Arm Spin All-Rounder (Captain)",
+      "batting_avg": 28.40,
+      "strike_rate": 89.20,
+      "bowling_avg": 36.80,
+      "matches": 108,
+      "runs": 1340,
+      "wickets": 112,
+      "status": "Active Captain"
+    },
+    {
+      "name": "Matthew Fisher",
+      "role": "Right-Arm Fast-Medium Bowler",
+      "batting_avg": 12.00,
+      "strike_rate": 70.00,
+      "bowling_avg": 25.10,
+      "matches": 6,
+      "runs": 35,
+      "wickets": 11,
+      "status": "Took 3/31 vs IND in 4th ODI"
+    },
+    {
+      "name": "Lockie Ferguson",
+      "role": "Express Fast Bowler (145+ kph)",
+      "batting_avg": 8.10,
+      "strike_rate": 56.00,
+      "bowling_avg": 28.20,
+      "matches": 68,
+      "runs": 85,
+      "wickets": 99,
+      "status": "Active Core"
+    },
+    {
+      "name": "Devon Conway",
+      "role": "Top-Order Batter / Keeper",
+      "batting_avg": 46.20,
+      "strike_rate": 87.50,
+      "bowling_avg": null,
+      "matches": 35,
+      "runs": 1320,
+      "wickets": 0,
+      "status": "Active Core"
+    }
+  ]
+}

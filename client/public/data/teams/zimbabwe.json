@@ -1,0 +1,120 @@
+{
+  "id": 10,
+  "name": "Zimbabwe",
+  "shortName": "ZIM",
+  "slug": "zimbabwe",
+  "group": null,
+  "iccRanking": 10,
+  "eloRating": 1354,
+  "formScore": 0.194,
+  "championshipPct": 0,
+  "semifinalPct": 0,
+  "recentForm": [
+    {
+      "date": "2026-10-25",
+      "opponent": "India",
+      "opponentShort": "IND",
+      "result": "L",
+      "margin": "121 runs"
+    },
+    {
+      "date": "2026-10-23",
+      "opponent": "India",
+      "opponentShort": "IND",
+      "result": "L",
+      "margin": "9 wkts"
+    },
+    {
+      "date": "2026-10-17",
+      "opponent": "Bangladesh",
+      "opponentShort": "BAN",
+      "result": "W",
+      "margin": "99 runs"
+    },
+    {
+      "date": "2026-09-20",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "L",
+      "margin": "1 wkts"
+    },
+    {
+      "date": "2026-09-18",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "L",
+      "margin": "84 runs"
+    },
+    {
+      "date": "2026-09-15",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "L",
+      "margin": "59 runs"
+    },
+    {
+      "date": "2026-07-11",
+      "opponent": "Bangladesh",
+      "opponentShort": "BAN",
+      "result": "L",
+      "margin": "7 wkts"
+    },
+    {
+      "date": "2026-07-09",
+      "opponent": "Bangladesh",
+      "opponentShort": "BAN",
+      "result": "W",
+      "margin": "13 runs"
+    },
+    {
+      "date": "2026-07-06",
+      "opponent": "Bangladesh",
+      "opponentShort": "BAN",
+      "result": "W",
+      "margin": "25 runs"
+    },
+    {
+      "date": "2026-05-09",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "L",
+      "margin": "9 wkts"
+    },
+    {
+      "date": "2026-05-06",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "L",
+      "margin": "206 runs"
+    },
+    {
+      "date": "2026-05-04",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "L",
+      "margin": "168 runs"
+    },
+    {
+      "date": "2026-03-11",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "L",
+      "margin": "200 runs"
+    },
+    {
+      "date": "2026-03-08",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "L",
+      "margin": "8 wkts"
+    },
+    {
+      "date": "2026-03-05",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "L",
+      "margin": "180 runs"
+    }
+  ],
+  "players": []
+}

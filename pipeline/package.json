@@ -1,0 +1,13 @@
+{
+  "name": "icc-wc-pipeline",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "run-all": "node 1-download.js && node 2-parse.js && node 3-scrape-rankings.js && node 4-elo.js && node 5-simulate.js && node 6-export.js"
+  },
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "cheerio": "^1.0.0"
+  }
+}

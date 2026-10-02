@@ -1,0 +1,1157 @@
+{
+  "AUS-NZ": {
+    "teamA": {
+      "name": "Australia",
+      "shortName": "AUS",
+      "slug": "australia",
+      "eloRating": 1763,
+      "winPct": 60.3
+    },
+    "teamB": {
+      "name": "New Zealand",
+      "shortName": "NZ",
+      "slug": "new-zealand",
+      "eloRating": 1690,
+      "winPct": 39.7
+    },
+    "h2h": {
+      "total": 19,
+      "aWins": 19,
+      "bWins": 0
+    }
+  },
+  "AUS-SA": {
+    "teamA": {
+      "name": "Australia",
+      "shortName": "AUS",
+      "slug": "australia",
+      "eloRating": 1763,
+      "winPct": 60
+    },
+    "teamB": {
+      "name": "South Africa",
+      "shortName": "SA",
+      "slug": "south-africa",
+      "eloRating": 1692,
+      "winPct": 40
+    },
+    "h2h": {
+      "total": 22,
+      "aWins": 9,
+      "bWins": 13
+    }
+  },
+  "AUS-IND": {
+    "teamA": {
+      "name": "Australia",
+      "shortName": "AUS",
+      "slug": "australia",
+      "eloRating": 1763,
+      "winPct": 60.8
+    },
+    "teamB": {
+      "name": "India",
+      "shortName": "IND",
+      "slug": "india",
+      "eloRating": 1686,
+      "winPct": 39.2
+    },
+    "h2h": {
+      "total": 45,
+      "aWins": 28,
+      "bWins": 17
+    }
+  },
+  "AUS-PAK": {
+    "teamA": {
+      "name": "Australia",
+      "shortName": "AUS",
+      "slug": "australia",
+      "eloRating": 1763,
+      "winPct": 64.6
+    },
+    "teamB": {
+      "name": "Pakistan",
+      "shortName": "PAK",
+      "slug": "pakistan",
+      "eloRating": 1658,
+      "winPct": 35.4
+    },
+    "h2h": {
+      "total": 21,
+      "aWins": 15,
+      "bWins": 6
+    }
+  },
+  "AUS-ENG": {
+    "teamA": {
+      "name": "Australia",
+      "shortName": "AUS",
+      "slug": "australia",
+      "eloRating": 1763,
+      "winPct": 71.6
+    },
+    "teamB": {
+      "name": "England",
+      "shortName": "ENG",
+      "slug": "england",
+      "eloRating": 1602,
+      "winPct": 28.4
+    },
+    "h2h": {
+      "total": 30,
+      "aWins": 24,
+      "bWins": 6
+    }
+  },
+  "AUS-SL": {
+    "teamA": {
+      "name": "Australia",
+      "shortName": "AUS",
+      "slug": "australia",
+      "eloRating": 1763,
+      "winPct": 74.1
+    },
+    "teamB": {
+      "name": "Sri Lanka",
+      "shortName": "SL",
+      "slug": "sri-lanka",
+      "eloRating": 1580,
+      "winPct": 25.9
+    },
+    "h2h": {
+      "total": 12,
+      "aWins": 7,
+      "bWins": 5
+    }
+  },
+  "AUS-AFG": {
+    "teamA": {
+      "name": "Australia",
+      "shortName": "AUS",
+      "slug": "australia",
+      "eloRating": 1763,
+      "winPct": 81.1
+    },
+    "teamB": {
+      "name": "Afghanistan",
+      "shortName": "AFG",
+      "slug": "afghanistan",
+      "eloRating": 1510,
+      "winPct": 18.9
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "AUS-BAN": {
+    "teamA": {
+      "name": "Australia",
+      "shortName": "AUS",
+      "slug": "australia",
+      "eloRating": 1763,
+      "winPct": 84.7
+    },
+    "teamB": {
+      "name": "Bangladesh",
+      "shortName": "BAN",
+      "slug": "bangladesh",
+      "eloRating": 1465,
+      "winPct": 15.3
+    },
+    "h2h": {
+      "total": 13,
+      "aWins": 11,
+      "bWins": 2
+    }
+  },
+  "AUS-ZIM": {
+    "teamA": {
+      "name": "Australia",
+      "shortName": "AUS",
+      "slug": "australia",
+      "eloRating": 1763,
+      "winPct": 91.3
+    },
+    "teamB": {
+      "name": "Zimbabwe",
+      "shortName": "ZIM",
+      "slug": "zimbabwe",
+      "eloRating": 1354,
+      "winPct": 8.7
+    },
+    "h2h": {
+      "total": 6,
+      "aWins": 5,
+      "bWins": 1
+    }
+  },
+  "AUS-NAM": {
+    "teamA": {
+      "name": "Australia",
+      "shortName": "AUS",
+      "slug": "australia",
+      "eloRating": 1763,
+      "winPct": 91
+    },
+    "teamB": {
+      "name": "Namibia",
+      "shortName": "NAM",
+      "slug": "namibia",
+      "eloRating": 1360,
+      "winPct": 9
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "NZ-SA": {
+    "teamA": {
+      "name": "New Zealand",
+      "shortName": "NZ",
+      "slug": "new-zealand",
+      "eloRating": 1690,
+      "winPct": 49.7
+    },
+    "teamB": {
+      "name": "South Africa",
+      "shortName": "SA",
+      "slug": "south-africa",
+      "eloRating": 1692,
+      "winPct": 50.3
+    },
+    "h2h": {
+      "total": 15,
+      "aWins": 6,
+      "bWins": 9
+    }
+  },
+  "NZ-IND": {
+    "teamA": {
+      "name": "New Zealand",
+      "shortName": "NZ",
+      "slug": "new-zealand",
+      "eloRating": 1715,
+      "winPct": 52.4
+    },
+    "teamB": {
+      "name": "India",
+      "shortName": "IND",
+      "slug": "india",
+      "eloRating": 1698,
+      "winPct": 47.6
+    },
+    "h2h": {
+      "total": 38,
+      "aWins": 16,
+      "bWins": 20
+    }
+  },
+  "NZ-PAK": {
+    "teamA": {
+      "name": "New Zealand",
+      "shortName": "NZ",
+      "slug": "new-zealand",
+      "eloRating": 1690,
+      "winPct": 54.6
+    },
+    "teamB": {
+      "name": "Pakistan",
+      "shortName": "PAK",
+      "slug": "pakistan",
+      "eloRating": 1658,
+      "winPct": 45.4
+    },
+    "h2h": {
+      "total": 21,
+      "aWins": 12,
+      "bWins": 7
+    }
+  },
+  "NZ-ENG": {
+    "teamA": {
+      "name": "New Zealand",
+      "shortName": "NZ",
+      "slug": "new-zealand",
+      "eloRating": 1690,
+      "winPct": 62.4
+    },
+    "teamB": {
+      "name": "England",
+      "shortName": "ENG",
+      "slug": "england",
+      "eloRating": 1602,
+      "winPct": 37.6
+    },
+    "h2h": {
+      "total": 28,
+      "aWins": 9,
+      "bWins": 18
+    }
+  },
+  "NZ-SL": {
+    "teamA": {
+      "name": "New Zealand",
+      "shortName": "NZ",
+      "slug": "new-zealand",
+      "eloRating": 1690,
+      "winPct": 65.4
+    },
+    "teamB": {
+      "name": "Sri Lanka",
+      "shortName": "SL",
+      "slug": "sri-lanka",
+      "eloRating": 1580,
+      "winPct": 34.6
+    },
+    "h2h": {
+      "total": 20,
+      "aWins": 12,
+      "bWins": 5
+    }
+  },
+  "NZ-AFG": {
+    "teamA": {
+      "name": "New Zealand",
+      "shortName": "NZ",
+      "slug": "new-zealand",
+      "eloRating": 1690,
+      "winPct": 73.8
+    },
+    "teamB": {
+      "name": "Afghanistan",
+      "shortName": "AFG",
+      "slug": "afghanistan",
+      "eloRating": 1510,
+      "winPct": 26.2
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "NZ-BAN": {
+    "teamA": {
+      "name": "New Zealand",
+      "shortName": "NZ",
+      "slug": "new-zealand",
+      "eloRating": 1690,
+      "winPct": 78.5
+    },
+    "teamB": {
+      "name": "Bangladesh",
+      "shortName": "BAN",
+      "slug": "bangladesh",
+      "eloRating": 1465,
+      "winPct": 21.5
+    },
+    "h2h": {
+      "total": 23,
+      "aWins": 17,
+      "bWins": 3
+    }
+  },
+  "NZ-ZIM": {
+    "teamA": {
+      "name": "New Zealand",
+      "shortName": "NZ",
+      "slug": "new-zealand",
+      "eloRating": 1690,
+      "winPct": 87.4
+    },
+    "teamB": {
+      "name": "Zimbabwe",
+      "shortName": "ZIM",
+      "slug": "zimbabwe",
+      "eloRating": 1354,
+      "winPct": 12.6
+    },
+    "h2h": {
+      "total": 3,
+      "aWins": 3,
+      "bWins": 0
+    }
+  },
+  "NZ-NAM": {
+    "teamA": {
+      "name": "New Zealand",
+      "shortName": "NZ",
+      "slug": "new-zealand",
+      "eloRating": 1690,
+      "winPct": 87
+    },
+    "teamB": {
+      "name": "Namibia",
+      "shortName": "NAM",
+      "slug": "namibia",
+      "eloRating": 1360,
+      "winPct": 13
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "SA-IND": {
+    "teamA": {
+      "name": "South Africa",
+      "shortName": "SA",
+      "slug": "south-africa",
+      "eloRating": 1692,
+      "winPct": 50.8
+    },
+    "teamB": {
+      "name": "India",
+      "shortName": "IND",
+      "slug": "india",
+      "eloRating": 1686,
+      "winPct": 49.2
+    },
+    "h2h": {
+      "total": 30,
+      "aWins": 12,
+      "bWins": 18
+    }
+  },
+  "SA-PAK": {
+    "teamA": {
+      "name": "South Africa",
+      "shortName": "SA",
+      "slug": "south-africa",
+      "eloRating": 1692,
+      "winPct": 54.9
+    },
+    "teamB": {
+      "name": "Pakistan",
+      "shortName": "PAK",
+      "slug": "pakistan",
+      "eloRating": 1658,
+      "winPct": 45.1
+    },
+    "h2h": {
+      "total": 34,
+      "aWins": 18,
+      "bWins": 15
+    }
+  },
+  "SA-ENG": {
+    "teamA": {
+      "name": "South Africa",
+      "shortName": "SA",
+      "slug": "south-africa",
+      "eloRating": 1692,
+      "winPct": 62.7
+    },
+    "teamB": {
+      "name": "England",
+      "shortName": "ENG",
+      "slug": "england",
+      "eloRating": 1602,
+      "winPct": 37.3
+    },
+    "h2h": {
+      "total": 25,
+      "aWins": 11,
+      "bWins": 12
+    }
+  },
+  "SA-SL": {
+    "teamA": {
+      "name": "South Africa",
+      "shortName": "SA",
+      "slug": "south-africa",
+      "eloRating": 1692,
+      "winPct": 65.6
+    },
+    "teamB": {
+      "name": "Sri Lanka",
+      "shortName": "SL",
+      "slug": "sri-lanka",
+      "eloRating": 1580,
+      "winPct": 34.4
+    },
+    "h2h": {
+      "total": 19,
+      "aWins": 14,
+      "bWins": 4
+    }
+  },
+  "SA-AFG": {
+    "teamA": {
+      "name": "South Africa",
+      "shortName": "SA",
+      "slug": "south-africa",
+      "eloRating": 1692,
+      "winPct": 74
+    },
+    "teamB": {
+      "name": "Afghanistan",
+      "shortName": "AFG",
+      "slug": "afghanistan",
+      "eloRating": 1510,
+      "winPct": 26
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "SA-BAN": {
+    "teamA": {
+      "name": "South Africa",
+      "shortName": "SA",
+      "slug": "south-africa",
+      "eloRating": 1692,
+      "winPct": 78.7
+    },
+    "teamB": {
+      "name": "Bangladesh",
+      "shortName": "BAN",
+      "slug": "bangladesh",
+      "eloRating": 1465,
+      "winPct": 21.3
+    },
+    "h2h": {
+      "total": 10,
+      "aWins": 6,
+      "bWins": 4
+    }
+  },
+  "SA-ZIM": {
+    "teamA": {
+      "name": "South Africa",
+      "shortName": "SA",
+      "slug": "south-africa",
+      "eloRating": 1692,
+      "winPct": 87.5
+    },
+    "teamB": {
+      "name": "Zimbabwe",
+      "shortName": "ZIM",
+      "slug": "zimbabwe",
+      "eloRating": 1354,
+      "winPct": 12.5
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "SA-NAM": {
+    "teamA": {
+      "name": "South Africa",
+      "shortName": "SA",
+      "slug": "south-africa",
+      "eloRating": 1692,
+      "winPct": 87.1
+    },
+    "teamB": {
+      "name": "Namibia",
+      "shortName": "NAM",
+      "slug": "namibia",
+      "eloRating": 1360,
+      "winPct": 12.9
+    },
+    "h2h": {
+      "total": 3,
+      "aWins": 3,
+      "bWins": 0
+    }
+  },
+  "IND-PAK": {
+    "teamA": {
+      "name": "India",
+      "shortName": "IND",
+      "slug": "india",
+      "eloRating": 1686,
+      "winPct": 54
+    },
+    "teamB": {
+      "name": "Pakistan",
+      "shortName": "PAK",
+      "slug": "pakistan",
+      "eloRating": 1658,
+      "winPct": 46
+    },
+    "h2h": {
+      "total": 7,
+      "aWins": 6,
+      "bWins": 0
+    }
+  },
+  "IND-ENG": {
+    "teamA": {
+      "name": "India",
+      "shortName": "IND",
+      "slug": "india",
+      "eloRating": 1686,
+      "winPct": 61.9
+    },
+    "teamB": {
+      "name": "England",
+      "shortName": "ENG",
+      "slug": "england",
+      "eloRating": 1602,
+      "winPct": 38.1
+    },
+    "h2h": {
+      "total": 28,
+      "aWins": 17,
+      "bWins": 11
+    }
+  },
+  "IND-SL": {
+    "teamA": {
+      "name": "India",
+      "shortName": "IND",
+      "slug": "india",
+      "eloRating": 1686,
+      "winPct": 64.8
+    },
+    "teamB": {
+      "name": "Sri Lanka",
+      "shortName": "SL",
+      "slug": "sri-lanka",
+      "eloRating": 1580,
+      "winPct": 35.2
+    },
+    "h2h": {
+      "total": 20,
+      "aWins": 15,
+      "bWins": 4
+    }
+  },
+  "IND-AFG": {
+    "teamA": {
+      "name": "India",
+      "shortName": "IND",
+      "slug": "india",
+      "eloRating": 1686,
+      "winPct": 73.4
+    },
+    "teamB": {
+      "name": "Afghanistan",
+      "shortName": "AFG",
+      "slug": "afghanistan",
+      "eloRating": 1510,
+      "winPct": 26.6
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "IND-BAN": {
+    "teamA": {
+      "name": "India",
+      "shortName": "IND",
+      "slug": "india",
+      "eloRating": 1686,
+      "winPct": 78.1
+    },
+    "teamB": {
+      "name": "Bangladesh",
+      "shortName": "BAN",
+      "slug": "bangladesh",
+      "eloRating": 1465,
+      "winPct": 21.9
+    },
+    "h2h": {
+      "total": 12,
+      "aWins": 6,
+      "bWins": 4
+    }
+  },
+  "IND-ZIM": {
+    "teamA": {
+      "name": "India",
+      "shortName": "IND",
+      "slug": "india",
+      "eloRating": 1686,
+      "winPct": 87.1
+    },
+    "teamB": {
+      "name": "Zimbabwe",
+      "shortName": "ZIM",
+      "slug": "zimbabwe",
+      "eloRating": 1354,
+      "winPct": 12.9
+    },
+    "h2h": {
+      "total": 5,
+      "aWins": 5,
+      "bWins": 0
+    }
+  },
+  "IND-NAM": {
+    "teamA": {
+      "name": "India",
+      "shortName": "IND",
+      "slug": "india",
+      "eloRating": 1686,
+      "winPct": 86.8
+    },
+    "teamB": {
+      "name": "Namibia",
+      "shortName": "NAM",
+      "slug": "namibia",
+      "eloRating": 1360,
+      "winPct": 13.2
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "PAK-ENG": {
+    "teamA": {
+      "name": "Pakistan",
+      "shortName": "PAK",
+      "slug": "pakistan",
+      "eloRating": 1658,
+      "winPct": 58
+    },
+    "teamB": {
+      "name": "England",
+      "shortName": "ENG",
+      "slug": "england",
+      "eloRating": 1602,
+      "winPct": 42
+    },
+    "h2h": {
+      "total": 20,
+      "aWins": 3,
+      "bWins": 13
+    }
+  },
+  "PAK-SL": {
+    "teamA": {
+      "name": "Pakistan",
+      "shortName": "PAK",
+      "slug": "pakistan",
+      "eloRating": 1658,
+      "winPct": 61.1
+    },
+    "teamB": {
+      "name": "Sri Lanka",
+      "shortName": "SL",
+      "slug": "sri-lanka",
+      "eloRating": 1580,
+      "winPct": 38.9
+    },
+    "h2h": {
+      "total": 15,
+      "aWins": 10,
+      "bWins": 4
+    }
+  },
+  "PAK-AFG": {
+    "teamA": {
+      "name": "Pakistan",
+      "shortName": "PAK",
+      "slug": "pakistan",
+      "eloRating": 1658,
+      "winPct": 70.1
+    },
+    "teamB": {
+      "name": "Afghanistan",
+      "shortName": "AFG",
+      "slug": "afghanistan",
+      "eloRating": 1510,
+      "winPct": 29.9
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "PAK-BAN": {
+    "teamA": {
+      "name": "Pakistan",
+      "shortName": "PAK",
+      "slug": "pakistan",
+      "eloRating": 1658,
+      "winPct": 75.2
+    },
+    "teamB": {
+      "name": "Bangladesh",
+      "shortName": "BAN",
+      "slug": "bangladesh",
+      "eloRating": 1465,
+      "winPct": 24.8
+    },
+    "h2h": {
+      "total": 13,
+      "aWins": 6,
+      "bWins": 6
+    }
+  },
+  "PAK-ZIM": {
+    "teamA": {
+      "name": "Pakistan",
+      "shortName": "PAK",
+      "slug": "pakistan",
+      "eloRating": 1658,
+      "winPct": 85.2
+    },
+    "teamB": {
+      "name": "Zimbabwe",
+      "shortName": "ZIM",
+      "slug": "zimbabwe",
+      "eloRating": 1354,
+      "winPct": 14.8
+    },
+    "h2h": {
+      "total": 10,
+      "aWins": 8,
+      "bWins": 1
+    }
+  },
+  "PAK-NAM": {
+    "teamA": {
+      "name": "Pakistan",
+      "shortName": "PAK",
+      "slug": "pakistan",
+      "eloRating": 1658,
+      "winPct": 84.8
+    },
+    "teamB": {
+      "name": "Namibia",
+      "shortName": "NAM",
+      "slug": "namibia",
+      "eloRating": 1360,
+      "winPct": 15.2
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "ENG-SL": {
+    "teamA": {
+      "name": "England",
+      "shortName": "ENG",
+      "slug": "england",
+      "eloRating": 1602,
+      "winPct": 53.2
+    },
+    "teamB": {
+      "name": "Sri Lanka",
+      "shortName": "SL",
+      "slug": "sri-lanka",
+      "eloRating": 1580,
+      "winPct": 46.8
+    },
+    "h2h": {
+      "total": 19,
+      "aWins": 12,
+      "bWins": 5
+    }
+  },
+  "ENG-AFG": {
+    "teamA": {
+      "name": "England",
+      "shortName": "ENG",
+      "slug": "england",
+      "eloRating": 1602,
+      "winPct": 62.9
+    },
+    "teamB": {
+      "name": "Afghanistan",
+      "shortName": "AFG",
+      "slug": "afghanistan",
+      "eloRating": 1510,
+      "winPct": 37.1
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "ENG-BAN": {
+    "teamA": {
+      "name": "England",
+      "shortName": "ENG",
+      "slug": "england",
+      "eloRating": 1602,
+      "winPct": 68.7
+    },
+    "teamB": {
+      "name": "Bangladesh",
+      "shortName": "BAN",
+      "slug": "bangladesh",
+      "eloRating": 1465,
+      "winPct": 31.3
+    },
+    "h2h": {
+      "total": 7,
+      "aWins": 6,
+      "bWins": 1
+    }
+  },
+  "ENG-ZIM": {
+    "teamA": {
+      "name": "England",
+      "shortName": "ENG",
+      "slug": "england",
+      "eloRating": 1602,
+      "winPct": 80.7
+    },
+    "teamB": {
+      "name": "Zimbabwe",
+      "shortName": "ZIM",
+      "slug": "zimbabwe",
+      "eloRating": 1354,
+      "winPct": 19.3
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "ENG-NAM": {
+    "teamA": {
+      "name": "England",
+      "shortName": "ENG",
+      "slug": "england",
+      "eloRating": 1602,
+      "winPct": 80.1
+    },
+    "teamB": {
+      "name": "Namibia",
+      "shortName": "NAM",
+      "slug": "namibia",
+      "eloRating": 1360,
+      "winPct": 19.9
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "SL-AFG": {
+    "teamA": {
+      "name": "Sri Lanka",
+      "shortName": "SL",
+      "slug": "sri-lanka",
+      "eloRating": 1580,
+      "winPct": 59.9
+    },
+    "teamB": {
+      "name": "Afghanistan",
+      "shortName": "AFG",
+      "slug": "afghanistan",
+      "eloRating": 1510,
+      "winPct": 40.1
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "SL-BAN": {
+    "teamA": {
+      "name": "Sri Lanka",
+      "shortName": "SL",
+      "slug": "sri-lanka",
+      "eloRating": 1580,
+      "winPct": 65.9
+    },
+    "teamB": {
+      "name": "Bangladesh",
+      "shortName": "BAN",
+      "slug": "bangladesh",
+      "eloRating": 1465,
+      "winPct": 34.1
+    },
+    "h2h": {
+      "total": 21,
+      "aWins": 13,
+      "bWins": 7
+    }
+  },
+  "SL-ZIM": {
+    "teamA": {
+      "name": "Sri Lanka",
+      "shortName": "SL",
+      "slug": "sri-lanka",
+      "eloRating": 1580,
+      "winPct": 78.6
+    },
+    "teamB": {
+      "name": "Zimbabwe",
+      "shortName": "ZIM",
+      "slug": "zimbabwe",
+      "eloRating": 1354,
+      "winPct": 21.4
+    },
+    "h2h": {
+      "total": 9,
+      "aWins": 7,
+      "bWins": 1
+    }
+  },
+  "SL-NAM": {
+    "teamA": {
+      "name": "Sri Lanka",
+      "shortName": "SL",
+      "slug": "sri-lanka",
+      "eloRating": 1580,
+      "winPct": 78
+    },
+    "teamB": {
+      "name": "Namibia",
+      "shortName": "NAM",
+      "slug": "namibia",
+      "eloRating": 1360,
+      "winPct": 22
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "AFG-BAN": {
+    "teamA": {
+      "name": "Afghanistan",
+      "shortName": "AFG",
+      "slug": "afghanistan",
+      "eloRating": 1510,
+      "winPct": 56.4
+    },
+    "teamB": {
+      "name": "Bangladesh",
+      "shortName": "BAN",
+      "slug": "bangladesh",
+      "eloRating": 1465,
+      "winPct": 43.6
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "AFG-ZIM": {
+    "teamA": {
+      "name": "Afghanistan",
+      "shortName": "AFG",
+      "slug": "afghanistan",
+      "eloRating": 1510,
+      "winPct": 71.1
+    },
+    "teamB": {
+      "name": "Zimbabwe",
+      "shortName": "ZIM",
+      "slug": "zimbabwe",
+      "eloRating": 1354,
+      "winPct": 28.9
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "AFG-NAM": {
+    "teamA": {
+      "name": "Afghanistan",
+      "shortName": "AFG",
+      "slug": "afghanistan",
+      "eloRating": 1510,
+      "winPct": 70.4
+    },
+    "teamB": {
+      "name": "Namibia",
+      "shortName": "NAM",
+      "slug": "namibia",
+      "eloRating": 1360,
+      "winPct": 29.6
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "BAN-ZIM": {
+    "teamA": {
+      "name": "Bangladesh",
+      "shortName": "BAN",
+      "slug": "bangladesh",
+      "eloRating": 1465,
+      "winPct": 65.5
+    },
+    "teamB": {
+      "name": "Zimbabwe",
+      "shortName": "ZIM",
+      "slug": "zimbabwe",
+      "eloRating": 1354,
+      "winPct": 34.5
+    },
+    "h2h": {
+      "total": 14,
+      "aWins": 9,
+      "bWins": 5
+    }
+  },
+  "BAN-NAM": {
+    "teamA": {
+      "name": "Bangladesh",
+      "shortName": "BAN",
+      "slug": "bangladesh",
+      "eloRating": 1465,
+      "winPct": 64.8
+    },
+    "teamB": {
+      "name": "Namibia",
+      "shortName": "NAM",
+      "slug": "namibia",
+      "eloRating": 1360,
+      "winPct": 35.2
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  },
+  "ZIM-NAM": {
+    "teamA": {
+      "name": "Zimbabwe",
+      "shortName": "ZIM",
+      "slug": "zimbabwe",
+      "eloRating": 1354,
+      "winPct": 49.1
+    },
+    "teamB": {
+      "name": "Namibia",
+      "shortName": "NAM",
+      "slug": "namibia",
+      "eloRating": 1360,
+      "winPct": 50.9
+    },
+    "h2h": {
+      "total": 0,
+      "aWins": null,
+      "bWins": null
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "tournament": "ICC Men's Cricket World Cup 2027",
+  "format": "ODI",
+  "hosts": ["South Africa", "Zimbabwe", "Namibia"],
+  "dates": {
+    "superSeries": "2027-10-02",
+    "groupStage": "2027-10-07",
+    "super7": "2027-10-25",
+    "semifinals": ["2027-11-17", "2027-11-18"],
+    "final": "2027-11-21"
+  },
+  "venues": {
+    "final": "Wanderers Stadium, Johannesburg",
+    "semi1": "Cape Town",
+    "semi2": "Centurion"
+  },
+  "groups": {
+    "A": ["India", "Australia", "Pakistan", "South Africa", "Bangladesh", "TBD-Qualifier-1", "TBD-Qualifier-2"],
+    "B": ["England", "New Zealand", "Sri Lanka", "Afghanistan", "Zimbabwe", "Namibia", "TBD-Qualifier-3"]
+  },
+  "superSeriesTeams": ["TBD-Qualifier-4"],
+  "confirmedTeams": ["India", "Australia", "New Zealand", "Pakistan", "England", "Sri Lanka", "Bangladesh", "Afghanistan", "South Africa", "Zimbabwe", "Namibia"]
+}

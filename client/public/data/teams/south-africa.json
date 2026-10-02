@@ -1,0 +1,120 @@
+{
+  "id": 9,
+  "name": "South Africa",
+  "shortName": "SA",
+  "slug": "south-africa",
+  "group": null,
+  "iccRanking": 6,
+  "eloRating": 1692,
+  "formScore": 0.694,
+  "championshipPct": 16.9,
+  "semifinalPct": 35,
+  "recentForm": [
+    {
+      "date": "2026-09-30",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "L",
+      "margin": "45 runs"
+    },
+    {
+      "date": "2026-09-27",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "W",
+      "margin": "32 runs"
+    },
+    {
+      "date": "2026-09-24",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "W",
+      "margin": "67 runs"
+    },
+    {
+      "date": "2026-09-13",
+      "opponent": "Namibia",
+      "opponentShort": "NAM",
+      "result": "W",
+      "margin": "9 wkts"
+    },
+    {
+      "date": "2026-09-11",
+      "opponent": "Namibia",
+      "opponentShort": "NAM",
+      "result": "W",
+      "margin": "157 runs"
+    },
+    {
+      "date": "2026-09-09",
+      "opponent": "Namibia",
+      "opponentShort": "NAM",
+      "result": "W",
+      "margin": "99 runs"
+    },
+    {
+      "date": "2026-04-04",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "L",
+      "margin": "66 runs"
+    },
+    {
+      "date": "2026-04-01",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "L",
+      "margin": "2 wkts"
+    },
+    {
+      "date": "2026-03-29",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "W",
+      "margin": "2 wkts"
+    },
+    {
+      "date": "2026-03-01",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "L",
+      "margin": "119 runs"
+    },
+    {
+      "date": "2026-02-25",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "W",
+      "margin": "16 runs"
+    },
+    {
+      "date": "2026-02-22",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "W",
+      "margin": "37 runs"
+    },
+    {
+      "date": "2025-12-06",
+      "opponent": "India",
+      "opponentShort": "IND",
+      "result": "L",
+      "margin": "9 wkts"
+    },
+    {
+      "date": "2025-12-03",
+      "opponent": "India",
+      "opponentShort": "IND",
+      "result": "W",
+      "margin": "4 wkts"
+    },
+    {
+      "date": "2025-11-30",
+      "opponent": "India",
+      "opponentShort": "IND",
+      "result": "L",
+      "margin": "17 runs"
+    }
+  ],
+  "players": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": 11,
+  "name": "Namibia",
+  "shortName": "NAM",
+  "slug": "namibia",
+  "group": null,
+  "iccRanking": 11,
+  "eloRating": 1360,
+  "formScore": 0,
+  "championshipPct": null,
+  "semifinalPct": 0,
+  "recentForm": [
+    {
+      "date": "2026-09-13",
+      "opponent": "South Africa",
+      "opponentShort": "SA",
+      "result": "L",
+      "margin": "9 wkts"
+    },
+    {
+      "date": "2026-09-11",
+      "opponent": "South Africa",
+      "opponentShort": "SA",
+      "result": "L",
+      "margin": "157 runs"
+    },
+    {
+      "date": "2026-09-09",
+      "opponent": "South Africa",
+      "opponentShort": "SA",
+      "result": "L",
+      "margin": "99 runs"
+    }
+  ],
+  "players": []
+}

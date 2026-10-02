@@ -1,0 +1,120 @@
+{
+  "id": 5,
+  "name": "England",
+  "shortName": "ENG",
+  "slug": "england",
+  "group": null,
+  "iccRanking": 4,
+  "eloRating": 1602,
+  "formScore": 0.306,
+  "championshipPct": 4.7,
+  "semifinalPct": 13.3,
+  "recentForm": [
+    {
+      "date": "2026-10-25",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "L",
+      "margin": "1 wkts"
+    },
+    {
+      "date": "2026-10-22",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "L",
+      "margin": "2 wkts"
+    },
+    {
+      "date": "2026-10-20",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "L",
+      "margin": "87 runs"
+    },
+    {
+      "date": "2026-09-27",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "W",
+      "margin": "223 runs"
+    },
+    {
+      "date": "2026-09-24",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "L",
+      "margin": "16 runs"
+    },
+    {
+      "date": "2026-09-22",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "W",
+      "margin": "89 runs"
+    },
+    {
+      "date": "2026-07-19",
+      "opponent": "India",
+      "opponentShort": "IND",
+      "result": "W",
+      "margin": "27 runs"
+    },
+    {
+      "date": "2026-07-16",
+      "opponent": "India",
+      "opponentShort": "IND",
+      "result": "W",
+      "margin": "4 wkts"
+    },
+    {
+      "date": "2026-07-14",
+      "opponent": "India",
+      "opponentShort": "IND",
+      "result": "L",
+      "margin": "6 wkts"
+    },
+    {
+      "date": "2026-05-16",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "L",
+      "margin": "17 runs"
+    },
+    {
+      "date": "2026-05-10",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "W",
+      "margin": "1 wkts"
+    },
+    {
+      "date": "2026-01-27",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "W",
+      "margin": "53 runs"
+    },
+    {
+      "date": "2026-01-24",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "W",
+      "margin": "5 wkts"
+    },
+    {
+      "date": "2026-01-22",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "L",
+      "margin": "19 runs"
+    },
+    {
+      "date": "2025-11-01",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "L",
+      "margin": "2 wkts"
+    }
+  ],
+  "players": []
+}

@@ -1,0 +1,120 @@
+{
+  "id": 7,
+  "name": "Bangladesh",
+  "shortName": "BAN",
+  "slug": "bangladesh",
+  "group": null,
+  "iccRanking": 8,
+  "eloRating": 1465,
+  "formScore": 0.111,
+  "championshipPct": 0.1,
+  "semifinalPct": 0.3,
+  "recentForm": [
+    {
+      "date": "2026-10-17",
+      "opponent": "Zimbabwe",
+      "opponentShort": "ZIM",
+      "result": "L",
+      "margin": "99 runs"
+    },
+    {
+      "date": "2026-10-14",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "L",
+      "margin": "8 wkts"
+    },
+    {
+      "date": "2026-10-11",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "L",
+      "margin": "9 wkts"
+    },
+    {
+      "date": "2026-10-09",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "L",
+      "margin": "7 wkts"
+    },
+    {
+      "date": "2026-07-11",
+      "opponent": "Zimbabwe",
+      "opponentShort": "ZIM",
+      "result": "W",
+      "margin": "7 wkts"
+    },
+    {
+      "date": "2026-07-09",
+      "opponent": "Zimbabwe",
+      "opponentShort": "ZIM",
+      "result": "L",
+      "margin": "13 runs"
+    },
+    {
+      "date": "2026-07-06",
+      "opponent": "Zimbabwe",
+      "opponentShort": "ZIM",
+      "result": "L",
+      "margin": "25 runs"
+    },
+    {
+      "date": "2026-06-14",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "L",
+      "margin": "1 wkts"
+    },
+    {
+      "date": "2026-06-11",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "W",
+      "margin": "5 wkts"
+    },
+    {
+      "date": "2026-06-09",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "W",
+      "margin": "86 runs"
+    },
+    {
+      "date": "2026-04-25",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "L",
+      "margin": "7 wkts"
+    },
+    {
+      "date": "2026-04-23",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "W",
+      "margin": "55 runs"
+    },
+    {
+      "date": "2026-04-22",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "L",
+      "margin": "4 wkts"
+    },
+    {
+      "date": "2026-04-20",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "W",
+      "margin": "3 wkts"
+    },
+    {
+      "date": "2026-04-20",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "W",
+      "margin": "6 wkts"
+    }
+  ],
+  "players": []
+}

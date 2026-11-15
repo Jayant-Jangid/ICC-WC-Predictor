@@ -5,11 +5,32 @@
   "slug": "sri-lanka",
   "group": null,
   "iccRanking": 7,
-  "eloRating": 1580,
-  "formScore": 0.5,
-  "championshipPct": 2.8,
-  "semifinalPct": 8.3,
+  "eloRating": 1567,
+  "formScore": 0.361,
+  "championshipPct": 2.1,
+  "semifinalPct": 6.8,
   "recentForm": [
+    {
+      "date": "2026-10-31",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "L",
+      "margin": "3 wkts"
+    },
+    {
+      "date": "2026-10-29",
+      "opponent": "England",
+      "opponentShort": "ENG",
+      "result": "L",
+      "margin": "55 runs"
+    },
+    {
+      "date": "2026-10-27",
+      "opponent": "Pakistan",
+      "opponentShort": "PAK",
+      "result": "W",
+      "margin": "8 wkts"
+    },
     {
       "date": "2026-10-22",
       "opponent": "England",
@@ -93,27 +114,6 @@
       "opponentShort": "ENG",
       "result": "L",
       "margin": "53 runs"
-    },
-    {
-      "date": "2026-01-24",
-      "opponent": "England",
-      "opponentShort": "ENG",
-      "result": "L",
-      "margin": "5 wkts"
-    },
-    {
-      "date": "2026-01-22",
-      "opponent": "England",
-      "opponentShort": "ENG",
-      "result": "W",
-      "margin": "19 runs"
-    },
-    {
-      "date": "2025-11-16",
-      "opponent": "Pakistan",
-      "opponentShort": "PAK",
-      "result": "L",
-      "margin": "6 wkts"
     }
   ],
   "players": []

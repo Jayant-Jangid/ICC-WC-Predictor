@@ -1,77 +1,77 @@
 {
-  "generatedAt": "2026-11-01T19:00:36.604Z",
+  "generatedAt": "2026-11-15T04:54:52.596Z",
   "simulationsRun": 50000,
   "odds": [
     {
       "name": "Australia",
       "shortName": "AUS",
       "slug": "australia",
-      "championshipPct": 35.4,
-      "semifinalPct": 56.1,
-      "groupAdvancePct": 91.4,
+      "championshipPct": 34.9,
+      "semifinalPct": 55.8,
+      "groupAdvancePct": 91.6,
       "eloRating": 1763
     },
     {
       "name": "New Zealand",
       "shortName": "NZ",
       "slug": "new-zealand",
-      "championshipPct": 21.8,
-      "semifinalPct": 44.5,
-      "groupAdvancePct": 94.2,
-      "eloRating": 1715
+      "championshipPct": 18,
+      "semifinalPct": 37.7,
+      "groupAdvancePct": 93.7,
+      "eloRating": 1690
     },
     {
       "name": "South Africa",
       "shortName": "SA",
       "slug": "south-africa",
-      "championshipPct": 16.9,
-      "semifinalPct": 35,
-      "groupAdvancePct": 78.6,
+      "championshipPct": 16.6,
+      "semifinalPct": 34.8,
+      "groupAdvancePct": 78.8,
       "eloRating": 1692
     },
     {
       "name": "India",
       "shortName": "IND",
       "slug": "india",
-      "championshipPct": 16.4,
-      "semifinalPct": 34.2,
-      "groupAdvancePct": 75.8,
-      "eloRating": 1698
-    },
-    {
-      "name": "Pakistan",
-      "shortName": "PAK",
-      "slug": "pakistan",
-      "championshipPct": 7.1,
-      "semifinalPct": 16.4,
-      "groupAdvancePct": 49.9,
-      "eloRating": 1658
+      "championshipPct": 15.1,
+      "semifinalPct": 30.9,
+      "groupAdvancePct": 73.1,
+      "eloRating": 1691
     },
     {
       "name": "England",
       "shortName": "ENG",
       "slug": "england",
-      "championshipPct": 4.7,
-      "semifinalPct": 13.3,
-      "groupAdvancePct": 81.3,
-      "eloRating": 1602
+      "championshipPct": 6.7,
+      "semifinalPct": 17,
+      "groupAdvancePct": 85,
+      "eloRating": 1622
+    },
+    {
+      "name": "Pakistan",
+      "shortName": "PAK",
+      "slug": "pakistan",
+      "championshipPct": 6.1,
+      "semifinalPct": 14.8,
+      "groupAdvancePct": 48,
+      "eloRating": 1651
     },
     {
       "name": "Sri Lanka",
       "shortName": "SL",
       "slug": "sri-lanka",
-      "championshipPct": 2.8,
-      "semifinalPct": 8.3,
-      "groupAdvancePct": 72.7,
-      "eloRating": 1580
+      "championshipPct": 2.1,
+      "semifinalPct": 6.8,
+      "groupAdvancePct": 69.7,
+      "eloRating": 1567
     },
     {
       "name": "Afghanistan",
       "shortName": "AFG",
       "slug": "afghanistan",
       "championshipPct": 0.5,
-      "semifinalPct": 1.9,
-      "groupAdvancePct": 38.1,
+      "semifinalPct": 1.7,
+      "groupAdvancePct": 37.8,
       "eloRating": 1510
     },
     {
@@ -89,16 +89,16 @@
       "slug": "zimbabwe",
       "championshipPct": 0,
       "semifinalPct": 0,
-      "groupAdvancePct": 6.7,
-      "eloRating": 1354
+      "groupAdvancePct": 6,
+      "eloRating": 1349
     },
     {
       "name": "Namibia",
       "shortName": "NAM",
       "slug": "namibia",
-      "championshipPct": null,
-      "semifinalPct": 0,
-      "groupAdvancePct": 7.7,
+      "championshipPct": 0,
+      "semifinalPct": 0.1,
+      "groupAdvancePct": 7.8,
       "eloRating": 1360
     }
   ]

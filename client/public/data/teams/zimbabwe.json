@@ -5,11 +5,18 @@
   "slug": "zimbabwe",
   "group": null,
   "iccRanking": 10,
-  "eloRating": 1354,
-  "formScore": 0.194,
+  "eloRating": 1349,
+  "formScore": 0.139,
   "championshipPct": 0,
   "semifinalPct": 0,
   "recentForm": [
+    {
+      "date": "2026-10-28",
+      "opponent": "India",
+      "opponentShort": "IND",
+      "result": "L",
+      "margin": "8 wkts"
+    },
     {
       "date": "2026-10-25",
       "opponent": "India",
@@ -107,13 +114,6 @@
       "opponentShort": "NZ",
       "result": "L",
       "margin": "8 wkts"
-    },
-    {
-      "date": "2026-03-05",
-      "opponent": "New Zealand",
-      "opponentShort": "NZ",
-      "result": "L",
-      "margin": "180 runs"
     }
   ],
   "players": []

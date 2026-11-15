@@ -3,33 +3,19 @@
   "name": "India",
   "shortName": "IND",
   "slug": "india",
-  "group": "A",
+  "group": null,
   "iccRanking": 1,
-  "eloRating": 1698,
-  "formScore": 0.612,
-  "championshipPct": 16.4,
-  "semifinalPct": 34.2,
+  "eloRating": 1691,
+  "formScore": 0.667,
+  "championshipPct": 15.1,
+  "semifinalPct": 30.9,
   "recentForm": [
     {
-      "date": "2026-11-13",
-      "opponent": "New Zealand",
-      "opponentShort": "NZ",
-      "result": "L",
-      "margin": "244 runs (Bay Oval, 4th ODI)"
-    },
-    {
-      "date": "2026-11-10",
-      "opponent": "New Zealand",
-      "opponentShort": "NZ",
+      "date": "2026-10-28",
+      "opponent": "Zimbabwe",
+      "opponentShort": "ZIM",
       "result": "W",
-      "margin": "6 wkts (2nd ODI)"
-    },
-    {
-      "date": "2026-11-07",
-      "opponent": "New Zealand",
-      "opponentShort": "NZ",
-      "result": "W",
-      "margin": "5 wkts - DLS (1st ODI)"
+      "margin": "8 wkts"
     },
     {
       "date": "2026-10-25",
@@ -79,162 +65,56 @@
       "opponentShort": "AUS",
       "result": "L",
       "margin": "5 wkts"
+    },
+    {
+      "date": "2026-02-24",
+      "opponent": "Australia",
+      "opponentShort": "AUS",
+      "result": "L",
+      "margin": "6 wkts"
+    },
+    {
+      "date": "2026-01-18",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "L",
+      "margin": "41 runs"
+    },
+    {
+      "date": "2026-01-14",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "L",
+      "margin": "7 wkts"
+    },
+    {
+      "date": "2026-01-11",
+      "opponent": "New Zealand",
+      "opponentShort": "NZ",
+      "result": "W",
+      "margin": "4 wkts"
+    },
+    {
+      "date": "2025-12-06",
+      "opponent": "South Africa",
+      "opponentShort": "SA",
+      "result": "W",
+      "margin": "9 wkts"
+    },
+    {
+      "date": "2025-12-03",
+      "opponent": "South Africa",
+      "opponentShort": "SA",
+      "result": "L",
+      "margin": "4 wkts"
+    },
+    {
+      "date": "2025-11-30",
+      "opponent": "South Africa",
+      "opponentShort": "SA",
+      "result": "W",
+      "margin": "17 runs"
     }
   ],
-  "players": [
-    {
-      "name": "Rohit Sharma",
-      "role": "Opening Batter (Captain)",
-      "batting_avg": 49.12,
-      "strike_rate": 92.44,
-      "bowling_avg": null,
-      "matches": 268,
-      "runs": 10866,
-      "wickets": 9,
-      "status": "Active Core"
-    },
-    {
-      "name": "Virat Kohli",
-      "role": "Anchor Top-Order Batter",
-      "batting_avg": 58.67,
-      "strike_rate": 93.58,
-      "bowling_avg": null,
-      "matches": 298,
-      "runs": 13906,
-      "wickets": 5,
-      "status": "Active Core"
-    },
-    {
-      "name": "Shubman Gill",
-      "role": "Opening Batter",
-      "batting_avg": 58.20,
-      "strike_rate": 101.48,
-      "bowling_avg": null,
-      "matches": 51,
-      "runs": 2514,
-      "wickets": 0,
-      "status": "Active Core"
-    },
-    {
-      "name": "Shreyas Iyer",
-      "role": "Middle-Order Batter",
-      "batting_avg": 47.85,
-      "strike_rate": 100.82,
-      "bowling_avg": null,
-      "matches": 65,
-      "runs": 2540,
-      "wickets": 0,
-      "status": "Active Core"
-    },
-    {
-      "name": "KL Rahul",
-      "role": "Wicketkeeper / Middle-Order",
-      "batting_avg": 49.80,
-      "strike_rate": 87.62,
-      "bowling_avg": null,
-      "matches": 81,
-      "runs": 2980,
-      "wickets": 0,
-      "status": "Active Core"
-    },
-    {
-      "name": "Hardik Pandya",
-      "role": "Pace All-Rounder",
-      "batting_avg": 34.20,
-      "strike_rate": 110.35,
-      "bowling_avg": 35.60,
-      "matches": 89,
-      "runs": 1820,
-      "wickets": 85,
-      "status": "Active Core"
-    },
-    {
-      "name": "Ravindra Jadeja",
-      "role": "Spin All-Rounder",
-      "batting_avg": 32.55,
-      "strike_rate": 85.20,
-      "bowling_avg": 36.10,
-      "matches": 197,
-      "runs": 2756,
-      "wickets": 220,
-      "status": "Active Core"
-    },
-    {
-      "name": "Axar Patel",
-      "role": "Spin All-Rounder",
-      "batting_avg": 31.40,
-      "strike_rate": 94.10,
-      "bowling_avg": 31.80,
-      "matches": 62,
-      "runs": 810,
-      "wickets": 68,
-      "status": "Touring NZ (21 runs, 2 wkts in 4th ODI)"
-    },
-    {
-      "name": "Ishan Kishan",
-      "role": "Wicketkeeper / Batter",
-      "batting_avg": 42.40,
-      "strike_rate": 102.20,
-      "bowling_avg": null,
-      "matches": 31,
-      "runs": 985,
-      "wickets": 0,
-      "status": "Touring NZ (Top Scored 27 in 4th ODI)"
-    },
-    {
-      "name": "Jasprit Bumrah",
-      "role": "Premier Strike Fast Bowler",
-      "batting_avg": 7.50,
-      "strike_rate": 62.00,
-      "bowling_avg": 23.55,
-      "matches": 89,
-      "runs": 95,
-      "wickets": 149,
-      "status": "Active Core"
-    },
-    {
-      "name": "Mohammed Siraj",
-      "role": "Fast Seam Bowler",
-      "batting_avg": 9.20,
-      "strike_rate": 55.40,
-      "bowling_avg": 24.12,
-      "matches": 46,
-      "runs": 72,
-      "wickets": 74,
-      "status": "Active Core"
-    },
-    {
-      "name": "Kuldeep Yadav",
-      "role": "Left-Arm Wrist Spinner",
-      "batting_avg": 10.40,
-      "strike_rate": 60.10,
-      "bowling_avg": 26.02,
-      "matches": 106,
-      "runs": 190,
-      "wickets": 172,
-      "status": "Active Core"
-    },
-    {
-      "name": "Gurnoor Brar",
-      "role": "Right-Arm Fast Bowler",
-      "batting_avg": 4.00,
-      "strike_rate": 45.00,
-      "bowling_avg": 28.50,
-      "matches": 4,
-      "runs": 8,
-      "wickets": 6,
-      "status": "Touring NZ (2/55 in 4th ODI)"
-    },
-    {
-      "name": "Auqib Nabi",
-      "role": "Fast-Medium Bowler",
-      "batting_avg": 6.00,
-      "strike_rate": 50.00,
-      "bowling_avg": 27.00,
-      "matches": 3,
-      "runs": 12,
-      "wickets": 5,
-      "status": "Touring NZ (2/48 in 4th ODI)"
-    }
-  ]
+  "players": []
 }

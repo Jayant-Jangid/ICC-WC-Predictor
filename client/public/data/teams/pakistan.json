@@ -5,11 +5,25 @@
   "slug": "pakistan",
   "group": null,
   "iccRanking": 5,
-  "eloRating": 1658,
-  "formScore": 0.722,
-  "championshipPct": 7.1,
-  "semifinalPct": 16.4,
+  "eloRating": 1651,
+  "formScore": 0.667,
+  "championshipPct": 6.1,
+  "semifinalPct": 14.8,
   "recentForm": [
+    {
+      "date": "2026-10-31",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "W",
+      "margin": "3 wkts"
+    },
+    {
+      "date": "2026-10-27",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "L",
+      "margin": "8 wkts"
+    },
     {
       "date": "2026-10-25",
       "opponent": "England",
@@ -100,20 +114,6 @@
       "opponentShort": "BAN",
       "result": "L",
       "margin": "11 runs"
-    },
-    {
-      "date": "2026-03-13",
-      "opponent": "Bangladesh",
-      "opponentShort": "BAN",
-      "result": "W",
-      "margin": "128 runs"
-    },
-    {
-      "date": "2026-03-11",
-      "opponent": "Bangladesh",
-      "opponentShort": "BAN",
-      "result": "L",
-      "margin": "8 wkts"
     }
   ],
   "players": []

@@ -64,7 +64,7 @@
       {
         "name": "India",
         "shortName": "IND",
-        "eloRating": 1686
+        "eloRating": 1691
       },
       {
         "name": "Australia",
@@ -74,7 +74,7 @@
       {
         "name": "Pakistan",
         "shortName": "PAK",
-        "eloRating": 1658
+        "eloRating": 1651
       },
       {
         "name": "South Africa",
@@ -101,7 +101,7 @@
       {
         "name": "England",
         "shortName": "ENG",
-        "eloRating": 1602
+        "eloRating": 1622
       },
       {
         "name": "New Zealand",
@@ -111,7 +111,7 @@
       {
         "name": "Sri Lanka",
         "shortName": "SL",
-        "eloRating": 1580
+        "eloRating": 1567
       },
       {
         "name": "Afghanistan",
@@ -121,7 +121,7 @@
       {
         "name": "Zimbabwe",
         "shortName": "ZIM",
-        "eloRating": 1354
+        "eloRating": 1349
       },
       {
         "name": "Namibia",

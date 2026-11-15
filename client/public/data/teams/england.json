@@ -5,11 +5,18 @@
   "slug": "england",
   "group": null,
   "iccRanking": 4,
-  "eloRating": 1602,
-  "formScore": 0.306,
-  "championshipPct": 4.7,
-  "semifinalPct": 13.3,
+  "eloRating": 1622,
+  "formScore": 0.417,
+  "championshipPct": 6.7,
+  "semifinalPct": 17,
   "recentForm": [
+    {
+      "date": "2026-10-29",
+      "opponent": "Sri Lanka",
+      "opponentShort": "SL",
+      "result": "W",
+      "margin": "55 runs"
+    },
     {
       "date": "2026-10-25",
       "opponent": "Pakistan",
@@ -107,13 +114,6 @@
       "opponentShort": "SL",
       "result": "L",
       "margin": "19 runs"
-    },
-    {
-      "date": "2025-11-01",
-      "opponent": "New Zealand",
-      "opponentShort": "NZ",
-      "result": "L",
-      "margin": "2 wkts"
     }
   ],
   "players": []
